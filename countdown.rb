@@ -10,6 +10,6 @@ while num > 0
   end
 end
   
-  "HAPPY NEW YEAR!"
+puts "HAPPY NEW YEAR!"
   
   
