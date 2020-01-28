@@ -8,7 +8,6 @@ while num > 0
   sleep(1)
   num -= 1
   end
-end
   
 puts "HAPPY NEW YEAR!"
   
